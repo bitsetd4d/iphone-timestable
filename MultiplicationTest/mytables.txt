@@ -1,0 +1,2 @@
+// sqlite3 mult_db.sqlite
+CREATE TABLE user ('pk' INTEGER PRIMARY KEY, 'name' CHAR(32), 'image' BLOB);
